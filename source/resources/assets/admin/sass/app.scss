@@ -1,0 +1,118 @@
+// Custom SCSS below
+
+.pd-t-7 {
+  padding-top: 7px;
+}
+
+.btn-cancel {
+  -webkit-appearance: none;
+}
+
+.hide-button {
+  display: none;
+}
+
+.upload-button {
+  margin-left: 24%;
+  margin-top: 1%;
+}
+
+.search-label {
+  display: inline-block;
+  width: 85px;
+}
+
+.img-circle {
+  border-radius: 50%;
+  border: 1px solid #ddd;
+}
+
+.language-img-size {
+  width: 28px;
+  height: 22px;
+}
+
+.large-label {
+  font-size: 20px !important;
+}
+
+.move-cursor {
+  cursor: move;
+}
+
+.list-style {
+  border: none !important;
+}
+
+.role-title {
+  color: #36a3f7;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.role-content-title {
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.role-content-list {
+  border: none !important;
+  padding: 0 0 0.8em 0 !important;
+}
+
+.check-icon {
+  color: #36a3f7;
+}
+
+.pt-list-5{
+  padding-top: 5px;
+}
+
+.gray-text{
+  color:gray;
+}
+
+.button-box{
+  text-align:right;
+  border-top: 1px solid #ebedf2;;
+}
+
+.gray-text:hover{
+  color: gray;
+}
+
+.role-table{
+  background: lightgray;
+  color:white;
+}
+
+.select-role-portlet{
+  background: #f2f3f8;
+  box-shadow: initial;
+}
+
+.form-role-title{
+  font-weight: bold !important;
+  font-size: 1em !important;
+}
+
+.modal-title-text{
+  padding-left: 0;
+  font-size: 0.8em;
+  font-weight: bold !important;
+}
+
+.scrolly {
+  height:150px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.scroll-image{
+  overflow-y: scroll;
+  height: 400px;
+}
+
+.library-img.selected{
+  border: 1px solid yellow !important;
+}
